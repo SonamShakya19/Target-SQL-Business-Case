@@ -1,12 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Sonam Shakya</h1>
 <h3 align="center">Data Analyst | SQL Business Case Study Enthusiast | Turning raw e-commerce data into strategic insights</h3>
-
-<p align="center">
-  <a href="https://colab.research.google.com/drive/188QgYqToXI7LlC332byC603nAw0H7y38" target="_blank">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
-  </a>
-</p>
 
 ---
 
@@ -25,6 +18,11 @@ The main goal is to uncover trends, understand customer distribution, evaluate d
   - `payments`
 - **Columns:** Includes customer location, order details, timestamps, payment values, freight charges, delivery times, and product prices.
 - **Format:** SQL Database
+
+---
+
+### 🖥 Environment Used
+**MySQL Workbench**
 
 ---
 
@@ -76,7 +74,5 @@ The main goal is to uncover trends, understand customer distribution, evaluate d
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Google-cloud-bigquery.svg" alt="bigquery" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
-
